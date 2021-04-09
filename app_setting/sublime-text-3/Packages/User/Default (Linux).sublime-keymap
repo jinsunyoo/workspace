@@ -1,0 +1,16 @@
+[
+	{"keys":["ctrl+alt+c"],"command":"cancel_build"},
+
+    {
+        "button": "button1",
+        "count": 1,
+        "modifiers":["ctrl"],
+        "press_command": "drag_select",
+        "command": "_goto_definition_"
+    },
+
+    { "keys": ["ctrl+g"], "command": "_goto_definition_" },
+
+    { "keys": ["alt+s"], "command": "switch_file", "args": {"extensions": ["cpp", "cxx", "cc", "c", "hpp", "hxx", "hh", "h", "ipp", "inl", "m", "mm"]} },
+
+]

@@ -1,0 +1,16 @@
+{
+	"allow_git_home_dir": false,
+	"font_size": 10,
+	"git_diff_target": "HEAD",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_git_status": true,
+	"sublime_merge_path": "/snap/bin/sublime-merge",
+	"translate_tabs_to_spaces": true
+}
